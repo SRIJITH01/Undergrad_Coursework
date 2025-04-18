@@ -4,4 +4,6 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
   This graduate level course deals with basics of various frontend architectures involved in designing transceivers and their building blocks such as Matching, LNA design, Inductor design, etc.
 ### EE 3301 : Introduction to VLSI Design
   This undergraduate level course deals with CMOS Logic, Logical Effort, Arithematic circuits, Static and Dynamic CMOS, Stick Diagrams, etc.
+### EE 3300 : Analog Circuits
+  This undergraduate level course deals with analysis of non-linear systems, feedback, stability, frequency response and transistor level design of analog systems. Some such systems dealt in the course are various amplifiers such as CS, CG, CD, multistage amplifiers,etc.
   
