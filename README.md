@@ -11,9 +11,13 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
 ### EE2301 : Electronic Devices and Circuits Lab
   An introductory lab course on basics of semiconductor devices, rectifiers, logic gates, etc.
 ### EE3500 : Electrical Machines Lab
-  A theory and lab course on various type of motors, generators, their working operation, and tests assessing their performance.
+  A theory and lab course on various types of motors, generators, their working operation, and tests assessing their performance.
 ### EE2800 : Digital Signal Processing
   This undergraduate level course discusses the fundamentals of DSP such as Discrete-time signals and systems, LTI systems, Z-transforms, Sampling continuous-time signals, fourier transforms, filters, etc.
+### EE2320 : Digital Modulation Techniques
+  This undergraduate level course discusses the fundamentals of modulation techniques in communication and various parameters used in analyzing the performance of a particular scheme.
+### EE2340 : Information sciences
+  This undergraduate level course discusses the fundamental concepts that deal with the processing of information, compression algorithms, encoding and decoding schemes, digital communication, entropy, etc
 
   
   
