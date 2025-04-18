@@ -25,7 +25,7 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
 ### EE2101 : Control Systems
   This undergraduate level course discusses the fundamentals of Control Systems, transfer functions, etc.
 ### EE1083 : Introduction to Computing
-  An introductory course to solve linear algebra, conics, circles, etc using programming languages both python and C.
+  An introductory course to solve linear algebra, conics, circles, etc using programming languages such as python, C.
 ### ID1035 : Independent project
   An Intruder alert system based on piezoeletric sensors and Rasberry Pi.
  
