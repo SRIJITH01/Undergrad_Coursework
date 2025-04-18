@@ -10,7 +10,10 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
   A practical lab course that complemented analog design theory. The course involved building and simulating circuits such as Gm-C filters, charge pumps, VCOs, mixers, and signal strength detectors. It also included PCB design using KiCad and circuit testing using simulation tools.
 ### EE2301 : Electronic Devices and Circuits Lab
   An introductory lab course on basics of semiconductor devices, rectifiers, logic gates, etc.
-### EE3500 Electrical Machines Lab
+### EE3500 : Electrical Machines Lab
   A theory and lab course on various type of motors, generators, their working operation, and tests assessing their performance.
+### EE2800 : Digital Signal Processing
+  This undergraduate level course discusses the fundamentals of DSP such as Discrete-time signals and systems, LTI systems, Z-transforms, Sampling continuous-time signals, fourier transforms, filters, etc.
+
   
   
