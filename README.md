@@ -10,6 +10,8 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
   A practical lab course that complemented analog design theory. The course involved building and simulating circuits such as Gm-C filters, charge pumps, VCOs, mixers, and signal strength detectors. It also included PCB design using KiCad and circuit testing using simulation tools.
 ### EE2301 : Electronic Devices and Circuits Lab
   An introductory lab course on basics of semiconductor devices, rectifiers, logic gates, etc.
+### EE1025 : Electrical Engineering Lab
+  A lab course on basic electric circuits, diodes, amplifiers, oscillators, etc.
 ### EE3500 : Electrical Machines Lab
   A theory and lab course on various types of motors, generators, their working operation, and tests assessing their performance.
 ### EE2800 : Digital Signal Processing
@@ -19,9 +21,13 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
 ### EE2340 : Information sciences
   This undergraduate level course discusses the fundamental concepts that deal with the processing of information, compression algorithms, encoding and decoding schemes, digital communication, entropy, etc
 ### EE1201 : Engineering Electromagnetics
-  This undergraduate level course discusses the fundamentals of Electrostatics, Laplace equations, Boundary-value problems, etc
+  This undergraduate level course discusses the fundamentals of Electrostatics, Laplace equations, Boundary-value problems, etc.
 ### EE2101 : Control Systems
   This undergraduate level course discusses the fundamentals of Control Systems, transfer functions, etc.
-
+### EE1083 : Introduction to Computing
+  An introductory course to solve linear algebra, conics, circles, etc using programming languages both python and C.
+### ID1035 : Independent project
+  An Intruder alert system based on piezoeletric sensors and Rasberry Pi.
+ 
   
   
