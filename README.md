@@ -18,6 +18,10 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
   This undergraduate level course discusses the fundamentals of modulation techniques in communication and various parameters used in analyzing the performance of a particular scheme.
 ### EE2340 : Information sciences
   This undergraduate level course discusses the fundamental concepts that deal with the processing of information, compression algorithms, encoding and decoding schemes, digital communication, entropy, etc
+### EE1201 : Engineering Electromagnetics
+  This undergraduate level course discusses the fundamentals of Electrostatics, Laplace equations, Boundary-value problems, etc
+### EE2101 : Control Systems
+  This undergraduate level course discusses the fundamentals of Control Systems, transfer functions, etc.
 
   
   
