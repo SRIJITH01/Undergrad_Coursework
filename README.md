@@ -6,4 +6,6 @@ Below are a few courses i have taken during my undergraduate at IITH and found i
   This undergraduate level course deals with CMOS Logic, Logical Effort, Arithematic circuits, Static and Dynamic CMOS, Stick Diagrams, etc.
 ### EE 3300 : Analog Circuits
   This undergraduate level course deals with analysis of non-linear systems, feedback, stability, frequency response and transistor level design of analog systems. Some such systems dealt in the course are various amplifiers such as CS, CG, CD, multistage amplifiers,etc.
+### EE 2401 : Analog Lab
+  A practical lab course that complemented analog design theory. The course involved building and simulating circuits such as Gm-C filters, charge pumps, VCOs, mixers, and signal strength detectors. It also included PCB design using KiCad and circuit testing using simulation tools.
   
